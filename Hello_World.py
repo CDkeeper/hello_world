@@ -1,1 +1,1 @@
-print("hello word to no merge!!!!!!!!!")
+print("hello")
